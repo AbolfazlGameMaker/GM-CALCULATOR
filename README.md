@@ -1,5 +1,5 @@
 # GW CAULCULATOR
-> a simple calc for everyday use
+> a simple calculator for everyday use
 
 
 
@@ -12,7 +12,7 @@
 Dev: IamAbolfazlGameMaker
 
 1. Ownership – Golden Wings Studio retains full ownership of this project.
-2. Use – Anyone can use this IDE
+2. Use – Anyone can use this Calculator
 3. Modification – Modifications can be done in private
 4. Distribution – You may not share, sell, rent, or transfer this project outside the studio. doing so will cause harsh legal action & By Us and InterNational Copyright laws you cannot legally redisturbute any code or similiar code to this app in other platforms or github and doing so will result in dmca strikes and legal action.
 
