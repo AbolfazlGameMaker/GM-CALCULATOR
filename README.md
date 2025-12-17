@@ -1,4 +1,4 @@
-# GW-CAULCULATOR
+# GM-CAULCULATOR
 > a simple calculator for everyday use
 
 
