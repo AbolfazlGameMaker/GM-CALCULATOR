@@ -7,7 +7,7 @@
 
 ## License – Restricted Use License (RUL)
 
-© 2025 Golden Wings Studio. All rights reserved.
+© 2025 Golden Moon Studio. All rights reserved.
 
 Dev: IamAbolfazlGameMaker
 
